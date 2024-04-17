@@ -1,0 +1,1 @@
+Console.WriteLine(“Име на проект”);
